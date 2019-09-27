@@ -1,0 +1,7 @@
+---
+name: consumeevents
+pack: PACK6
+runner_type: "python-script"
+description: consume calender events api
+enabled: true
+entry_point: consumeevents.py
